@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @asiFREAK
 - 👀 I’m interested in ... learning new techniques 
-- 🌱 I’m currently learning ... linux
-- 💞️ I’m looking to collaborate on ... professional linux guider
+- 🌱 I’m currently learning ... DevOps
+- 💞️ I’m looking to collaborate on ... professional DevOps Mentor
 - 📫 How to reach me ... discord - @asifreak#6970
 
 <!---
